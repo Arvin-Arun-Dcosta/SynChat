@@ -1,0 +1,38 @@
+# people: ava ben cho dia
++0 ava DEMO investor demo is thursday at 3, are we ready
++15 ben DEMO backend yes, the dashboard no
++8 cho DEMO dashboard needs one more day
++6 ava DEMO we have two
++11 dia HIRING the designer candidate replied btw, she can start in december
++9 ava HIRING did she accept the number
++7 dia HIRING she asked for 10% more
++6 ben DEMO cho do you need help with the charts
++8 cho DEMO yes please, the funnel one is broken
++5 ben DEMO on it after lunch
++12 ava HIRING 10% is fine if she starts on the 1st
++6 dia HIRING i'll tell her
++25 cho OFFICE also the landlord emailed about the lease renewal
++9 ava OFFICE how much is he raising it
++7 cho OFFICE 8%
++5 ava OFFICE no way
++8 dia OFFICE the coworking place downstairs is cheaper per seat now
++11 ava OFFICE send me their pricing
++6 dia OFFICE will do
++300 ben DEMO funnel chart fixed, it was a timezone bug
++10 cho DEMO thank you!!
++7 ava DEMO can we do a dry run wednesday evening
++6 ben DEMO yes
++5 cho DEMO yep
++4 dia DEMO i'll be the fake investor
++9 ava DEMO be mean
++6 dia DEMO always
++700 dia HIRING she said yes to dec 1
++12 ava HIRING great, send the offer letter
++8 dia HIRING drafting now
++1100 dia OFFICE pricing from the coworking place is in your inbox
++15 ava OFFICE 30% cheaper, wow
++7 cho OFFICE do they have meeting rooms
++9 dia OFFICE 2, bookable by the hour
++6 ava OFFICE let's visit friday
++5 ben OFFICE i'm in
++4 cho OFFICE ok

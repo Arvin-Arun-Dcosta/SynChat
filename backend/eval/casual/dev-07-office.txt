@@ -1,0 +1,43 @@
+# people: nina paul kavya sam
++0 nina LUNCH ordering lunch, who wants what
++11 paul LUNCH what are the options
++8 nina LUNCH the wrap place or thai
++6 kavya STANDUP did anyone see the build is red on main
++9 paul LUNCH thai
++5 sam STANDUP yeah it's the date test again
++7 kavya STANDUP the timezone one?
++4 sam STANDUP yep fails after midnight utc
++10 nina LUNCH kavya sam?
++12 kavya LUNCH pad thai for me, no peanuts
++6 sam LUNCH green curry
++9 nina LUNCH ok so 2 pad thai, 1 green curry, and i'll get the soup
++5 paul LUNCH mine with peanuts please
++3 nina LUNCH noted
++20 sam STANDUP i'll just pin the clock in that test
++8 kavya STANDUP please, it's the third time this month
++6 paul STANDUP can you also bump the timeout, it flakes on my machine
++9 sam STANDUP sure
++35 nina FAREWELL also we need to collect for dev's farewell gift
++10 paul FAREWELL when is his last day
++7 nina FAREWELL friday
++5 kavya FAREWELL what are we getting him
++12 nina FAREWELL he keeps talking about that mechanical keyboard
++6 sam FAREWELL the loud one? lol
++4 nina FAREWELL yes
++8 paul FAREWELL how much each
++9 nina FAREWELL around 800 if all 9 of us chip in
++5 kavya FAREWELL in
++4 sam FAREWELL ok
++6 paul FAREWELL sure
++120 sam STANDUP fix is up, can someone review
++14 kavya STANDUP looking
++40 kavya STANDUP approved
++6 sam STANDUP merging
++300 nina LUNCH food is at reception
++9 paul LUNCH coming down
++7 kavya LUNCH can someone grab mine, i'm on a call
++5 sam LUNCH got it
++1500 nina FAREWELL ordered the keyboard, arrives thursday
++12 paul FAREWELL nice, who's doing the card
++8 kavya FAREWELL me, i'll pass it around tomorrow
++5 nina FAREWELL perfect

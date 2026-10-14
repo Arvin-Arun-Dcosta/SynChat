@@ -1,0 +1,23 @@
+# Local development database. Postgres 17 with the pgvector extension.
+# Host port 5433 so it does not collide with a Postgres you may already run on 5432.
+services:
+  db:
+    image: pgvector/pgvector:pg17
+    container_name: synchat-db
+    environment:
+      POSTGRES_USER: synchat
+      POSTGRES_PASSWORD: synchat
+      POSTGRES_DB: synchat
+    ports:
+      - "127.0.0.1:5433:5432"
+    volumes:
+      - synchat-pgdata:/var/lib/postgresql/data
+      - ./docker/initdb:/docker-entrypoint-initdb.d:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U synchat -d synchat"]
+      interval: 2s
+      timeout: 3s
+      retries: 30
+
+volumes:
+  synchat-pgdata:

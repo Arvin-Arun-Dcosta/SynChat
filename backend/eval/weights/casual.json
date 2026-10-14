@@ -1,0 +1,42 @@
+{
+  "topic": {
+    "semPosInfo": 0.92,
+    "semNegInfo": 0.32,
+    "semPos": 1.53,
+    "lexical": 1.85,
+    "recencyFastLow": 1.78,
+    "recencyFastHigh": 0.46,
+    "recencySlow": 0.5,
+    "adjacencyLow": 1.55,
+    "adjacencyHigh": 0.16,
+    "reactionAdjacency": 0.39,
+    "authorFast": 0.58,
+    "authorSlow": 0.11,
+    "authorLast": -0.35,
+    "authorShare": 0.27,
+    "turn": 0.51,
+    "burst": 0.26,
+    "addressee": 0.11,
+    "addresseeCrowd": 0,
+    "expected": 0.44,
+    "questionAnswer": 1.31,
+    "questionShort": 0.38,
+    "questionLong": 1.02,
+    "typeMatch": 0.17
+  },
+  "fresh": {
+    "bias": 1.06,
+    "info": 0.5,
+    "opener": 0.81,
+    "novelQuestion": 0.63,
+    "cue": 0.65,
+    "reaction": -0.12,
+    "answerLike": -0.38,
+    "addressed": -0.31,
+    "novelInfo": 0.71,
+    "silence": -0.05,
+    "newcomer": 0.43,
+    "crowd": 0,
+    "crowdNewcomer": 0
+  }
+}

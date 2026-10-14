@@ -1,0 +1,45 @@
+# people: ira sam noor dev
++0 ira GEAR packing list for the trek: shoes, rain jacket, torch. what else
++16 sam GEAR power bank
++7 noor GEAR do we need sleeping bags or does the camp give them
++12 ira GEAR camp provides
++9 dev WEATHER it's supposed to rain on sunday though
++6 sam WEATHER how much
++10 dev WEATHER 60% chance, afternoon
++8 noor WEATHER should we start earlier then
++5 ira WEATHER yeah let's leave by 5
++7 sam WEATHER 5 am??
++4 ira WEATHER yes
++6 sam WEATHER ok
++22 noor CARPOOL who's driving
++9 dev CARPOOL i can take my car, fits 4
++6 ira CARPOOL perfect
++5 sam CARPOOL pick me up from the metro?
++8 dev CARPOOL which one
++7 sam CARPOOL indiranagar
++4 dev CARPOOL ok 4:45 there
++11 noor CARPOOL and me from home, it's on the way
++6 dev CARPOOL sure
++35 sam GEAR are regular running shoes ok
++12 ira GEAR if they have grip yes
++8 noor GEAR mine are pretty worn out
++6 ira GEAR borrow my old pair, what size
++5 noor GEAR 7
++4 ira GEAR same, done
++7 noor GEAR thank you!!
++600 dev BDAY wait isn't it sam's birthday on sunday
++9 ira BDAY omg yes
++6 noor BDAY birthday trek!!
++8 sam BDAY please don't make it a thing
++5 dev BDAY too late
++7 ira BDAY i'm bringing cake
++4 sam BDAY no
++6 noor BDAY yes
++1500 dev WEATHER update: forecast now says rain only after 4pm
++12 ira WEATHER great, we'll be down by then
++8 sam WEATHER so can we leave at 6 instead
++5 ira WEATHER no
++4 noor WEATHER lol
++30 dev CARPOOL fuel split is around 300 each btw
++7 sam CARPOOL ok
++5 noor CARPOOL fine

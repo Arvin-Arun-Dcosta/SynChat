@@ -1,0 +1,27 @@
+{
+  "name": "synchat",
+  "version": "2.0.0",
+  "private": true,
+  "description": "A messenger whose group chats sort themselves into topic lanes.",
+  "author": "Arvin Arun Dcosta",
+  "license": "MIT",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "setup": "npm install && npm install --prefix backend && npm install --prefix frontend && npm install --prefix e2e",
+    "db:up": "docker compose up -d --wait",
+    "db:down": "docker compose down",
+    "dev": "concurrently -n api,web -c blue,green \"npm run dev --prefix backend\" \"npm run dev --prefix frontend\"",
+    "test": "npm test --prefix backend",
+    "typecheck": "npm run typecheck --prefix backend && npm run typecheck --prefix frontend",
+    "lint": "npm run lint --prefix frontend",
+    "build": "npm run build --prefix backend && npm run build --prefix frontend",
+    "start": "npm run start --prefix backend",
+    "e2e": "node e2e/phase1.mjs && node e2e/phase2.mjs && node e2e/phase3.mjs && node e2e/phase4.mjs && node e2e/phase5.mjs && node e2e/phase6.mjs",
+    "seed": "npm run seed --prefix backend"
+  },
+  "devDependencies": {
+    "concurrently": "^10.0.6"
+  }
+}

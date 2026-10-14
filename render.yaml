@@ -1,0 +1,47 @@
+# Render Blueprint for the API (the web app is deployed separately, see vercel.json).
+# In Render: New > Blueprint, pick this repository, and fill in the values it asks for.
+services:
+  - type: web
+    name: synchat-api
+    runtime: node
+    plan: free
+    # Pick the region closest to your database.
+    region: ohio
+    # The model is downloaded at build time: downloading and loading it at startup
+    # needs more than the free plan's 512 MB. --include=dev keeps the TypeScript
+    # compiler, which NODE_ENV=production would otherwise leave out.
+    buildCommand: npm ci --prefix backend --include=dev && npm run build --prefix backend && npm run model:fetch --prefix backend
+    startCommand: npm start --prefix backend
+    healthCheckPath: /api/health
+    envVars:
+      - key: NODE_VERSION
+        value: "24"
+      - key: NODE_ENV
+        value: production
+      - key: TRUST_PROXY
+        value: "1"
+      # Postgres with pgvector, e.g. a Neon connection string.
+      - key: DATABASE_URL
+        sync: false
+      # Origin of the web app, e.g. https://chat.example.com
+      - key: CLIENT_ORIGIN
+        sync: false
+      # Optional: image uploads (off without them).
+      - key: CLOUDINARY_CLOUD_NAME
+        sync: false
+      - key: CLOUDINARY_API_KEY
+        sync: false
+      - key: CLOUDINARY_API_SECRET
+        sync: false
+      # Optional: one AI key, for the lane tidy-up, catch-up and questions inbox.
+      - key: GEMINI_API_KEY
+        sync: false
+      - key: ANTHROPIC_API_KEY
+        sync: false
+      # Optional: web push (npm run vapid --prefix backend), and a mailto: contact.
+      - key: VAPID_PUBLIC_KEY
+        sync: false
+      - key: VAPID_PRIVATE_KEY
+        sync: false
+      - key: VAPID_SUBJECT
+        sync: false

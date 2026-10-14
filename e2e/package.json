@@ -1,0 +1,11 @@
+{
+  "name": "synchat-e2e",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Browser walk-throughs for SynChat, run from the repository root with npm run e2e.",
+  "license": "MIT",
+  "type": "module",
+  "devDependencies": {
+    "playwright": "^1.64.0"
+  }
+}

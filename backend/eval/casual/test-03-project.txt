@@ -1,0 +1,42 @@
+# people: hana tom ravi mei
++0 hana SLIDES slides for thursday, who is doing which part
++13 tom SLIDES i can take the intro and the problem statement
++9 ravi BUG the login page is broken on staging btw
++6 mei SLIDES i'll do results
++8 hana BUG broken how
++7 ravi BUG it just spins after you submit
++10 tom BUG is that the token change i merged yesterday
++5 ravi BUG probably
++12 hana SLIDES ok then i'll do the architecture part
++6 hana SLIDES ravi can you do the demo
++15 ravi SLIDES if staging works by then lol
++9 tom BUG looking at it now
++25 mei SLIDES how many slides each
++8 hana SLIDES 3 max, we only get 10 minutes
++5 mei SLIDES ok
++60 tom BUG found it, the cookie name changed and the frontend still reads the old one
++7 ravi BUG ahh
++4 ravi BUG i can fix the frontend side
++9 tom BUG do it, i'll review
++14 hana MEETING can we meet once before thursday to rehearse
++8 mei MEETING wednesday evening?
++6 tom MEETING i have a lab till 6
++5 hana MEETING 6:30 then
++7 mei MEETING ok
++4 ravi MEETING where
++9 hana MEETING the usual room on the third floor
++6 ravi MEETING 👍
++180 ravi BUG pushed the fix, pr is up
++12 tom BUG approved
++5 ravi BUG merged, staging works again
++8 hana BUG great, thank you both
++1100 mei SLIDES my 3 slides are in the deck
++15 hana SLIDES looks good, maybe make the chart bigger
++7 mei SLIDES will do
++22 tom SLIDES intro done too
++9 hana SLIDES nice. ravi?
++31 ravi SLIDES tonight i promise
++5 hana SLIDES ok
++700 tom MEETING running 10 mins late for rehearsal
++8 hana MEETING no worries
++6 mei MEETING i'm already here

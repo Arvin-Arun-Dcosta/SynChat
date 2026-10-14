@@ -1,0 +1,46 @@
+# people: asha ben chidi dev
++0 asha DINNER who's in for dinner on saturday?
++14 ben DINNER me! where though
++9 chidi HW did anyone start the networks assignment
++21 asha DINNER thinking that ramen place near the station
++6 dev HW not yet, isn't it due friday?
++11 ben DINNER the one with the long queue?
++8 chidi HW thursday midnight actually
++5 asha DINNER yeah but it moves fast
++13 dev HW wait what
++4 dev HW i thought friday
++17 chidi HW nope, check the portal. Q3 is brutal btw
++9 ben DINNER what time
++22 asha DINNER 8?
++6 ben DINNER 8 works
++15 dev HW is Q3 the one with the sliding window proof
++7 chidi HW yes
++3 chidi HW took me 2 hours and i'm still not sure
++19 asha DINNER chidi dev you coming?
++12 chidi DINNER yep count me in
++31 dev DINNER can't, family thing :(
++8 asha DINNER aw ok
++5 ben HW can someone share their Q2 at least
++26 chidi HW sending a pic in a sec
++44 chidi HW check now
++9 ben HW thanks you're a lifesaver
++6 dev HW lol same
++140 asha DINNER booked a table for 3 at 8
++11 ben DINNER nice
++7 chidi DINNER 👍
++610 dev HW ok Q3 done finally. the trick is to induct on the window size
++25 chidi HW ohh
++8 chidi HW that makes sense
++13 ben HW can you explain tomorrow before class
++9 dev HW sure
++1900 asha TRIP btw are we still doing the hampi trip in december
++34 ben TRIP i'm in if it's after the 15th
++20 chidi TRIP same, exams end on the 14th
++12 asha TRIP ok let's say 18th to 21st
++9 dev TRIP works
++15 ben TRIP train or bus?
++22 asha TRIP train, i'll check tickets tonight
++7 chidi TRIP cool
++48 ben DINNER also asha should we split the ramen bill on the app
++16 asha DINNER yeah i'll add it after
++5 ben DINNER ok

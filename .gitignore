@@ -1,0 +1,61 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+dist-ssr/
+build/
+out/
+*.tsbuildinfo
+vite.config.js.timestamp-*
+vite.config.ts.timestamp-*
+
+# Environment files (.env.example is the tracked template)
+.env
+.env.*
+!.env.example
+
+# Deployment
+.vercel/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Test and tool caches
+coverage/
+.nyc_output/
+.npm/
+.eslintcache
+.cache/
+*.tgz
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor files
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.swp
+*.swo
+*.sublime-*
+
+# SynChat
+backend/uploads/
+# Downloaded embedding model, evaluation corpus and cached vectors
+backend/.cache/
+backend/eval/data/
+backend/eval/.cache/
+
+# Scratch output of eval/fit.ts; the weights worth keeping are copied to eval/weights/
+backend/eval/results/
+
+# Personal notes, kept local
+interview.md

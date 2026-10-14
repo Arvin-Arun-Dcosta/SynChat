@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@plugin "daisyui" {
+  themes: all;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+/* Long words and URLs must wrap inside a bubble instead of widening it. */
+.msg-text {
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+}

@@ -1,0 +1,42 @@
+# people: kunal isha dan sara
++0 kunal MATCH toss in 10 mins, who's watching
++9 dan MATCH me, india batting first hopefully
++12 isha FOOD i'm ordering biryani, anyone want
++6 sara FOOD yes one chicken
++5 kunal MATCH we won the toss
++4 kunal MATCH batting
++7 dan MATCH lets gooo
++8 isha FOOD kunal dan?
++11 dan FOOD one mutton for me
++6 kunal FOOD same as dan
++14 isha FOOD ok 1 chicken 2 mutton and paneer for me
++5 sara FOOD add raita
++3 isha FOOD yep
++25 dan MATCH what a shot
++4 kunal MATCH SIX
++6 sara MATCH who is batting
++7 dan MATCH rohit, 24 off 11
++9 sara MATCH nice
++30 isha FOOD ordered, 45 mins
++6 kunal FOOD that long?
++5 isha FOOD match day rush
++8 dan FOOD how much do we owe
++10 isha FOOD 310 each
++4 sara FOOD sent
++60 kunal MATCH nooo
++3 dan MATCH what was that shot
++5 kunal MATCH out for 31
++9 sara MATCH oh no
++7 isha MATCH who's next
++6 dan MATCH kohli
++11 isha MATCH ok we're fine then
++400 kunal MATCH 92 for 1 after 10 overs
++13 dan MATCH on track for 200
++8 sara FOOD is the food here yet
++15 isha FOOD delivery guy is 5 mins away
++6 sara FOOD i'll go down
++190 sara FOOD got it, come eat
++7 dan FOOD coming
++5 kunal FOOD one more over
++9 isha FOOD it'll get cold
++12 kunal FOOD ok ok

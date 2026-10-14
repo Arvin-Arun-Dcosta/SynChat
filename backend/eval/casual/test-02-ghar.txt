@@ -1,0 +1,42 @@
+# people: anu vikram pooja rahul
++0 anu GROCERY ghar pe doodh khatam hai, koi la sakta hai?
++15 vikram GROCERY main shaam ko launga
++7 anu GROCERY bread aur eggs bhi
++9 pooja COOK didi kal nahi aayegi btw, usne message kiya
++6 vikram GROCERY ok list bhej do
++12 rahul COOK phir se?
++5 pooja COOK haan uski beti bimar hai
++8 rahul COOK ok then we cook tomorrow
++11 anu GROCERY milk bread eggs onions, and maggi
++4 vikram GROCERY noted
++9 anu COOK i can make dal chawal
++6 rahul COOK i'll do the dishes
++5 pooja COOK deal
++40 rahul BILL bijli ka bill aaya kya is mahine
++12 pooja BILL haan 4100
++5 rahul BILL itna zyada??
++8 anu BILL ac chalaya hai poora mahina
++6 vikram BILL rahul ka room 16 pe rehta hai
++4 rahul BILL arre
++7 pooja BILL lol sach hai
++10 rahul BILL ok fine i'll pay a bit more
++9 anu BILL 1025 each normally
++6 rahul BILL i'll do 1400, baaki 900 each
++5 vikram BILL chalega
++4 pooja BILL done
++3 anu BILL ok
++1300 vikram GROCERY store pe hoon, amul ya nandini
++10 anu GROCERY nandini
++6 vikram GROCERY eggs 6 ya 12
++5 anu GROCERY 12
++4 pooja GROCERY chips bhi le aana
++7 vikram GROCERY kaunsa
++6 pooja GROCERY blue lays
++9 vikram GROCERY ok
++500 vikram GROCERY aa gaya, total 540
++11 anu GROCERY thanks, splitwise pe daal do
++900 pooja COOK kal dinner 8 baje theek hai?
++13 anu COOK haan
++6 rahul COOK 8 works
++5 vikram COOK i'll be late, save some for me
++8 anu COOK ok
